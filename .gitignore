@@ -1,0 +1,38 @@
+# Ignorar arquivos locais e de sistema
+**/.fabric/
+**/.mixin.out/
+**/logs/
+**/crash-reports/
+**/screenshots/
+**/usercache.json
+**/command_history.txt
+**/*.class
+**/*.log
+**/*.bak
+
+# Ignorar configurações locais do Prism/Minecraft
+options.txt
+optionsof.txt
+servers.dat
+instance.cfg
+mmc-pack.json
+.vs/
+
+# Ignorar pastas pesadas do modpack
+**/mods/
+**/resourcepacks/
+**/shaderpacks/
+**/texturepacks/
+**/saves/
+**/downloads/
+**/fancymenu_data/
+**/showdown/
+**/legendary-monuments-data/
+**/minecraft/licenses
+**/minecraft/config/fancymenu/assets
+**/minecraft/COBBLEVERSE - Third-Party Licenses.pdf
+# Ignorar cache de mapas (Xaero Minimap/Worldmap)
+**/xaero/
+
+# Forçar o rastreamento do datapack modificado
+!minecraft/datapacks/COBBLEVERSE-DP-v31.zip

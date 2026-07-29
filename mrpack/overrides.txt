@@ -1,0 +1,1649 @@
+COBBLEVERSE - Third-Party Licenses.pdf
+config/accessories.json5
+config/accessories_compat.json5
+config/advancementdisable.toml
+config/advancementplaques.toml
+config/badoptimizations.txt
+config/beautify.json
+config/betterf3.json
+config/betterthirdperson.json5
+config/biome_replacer.properties
+config/brb.toml
+config/c2me.toml
+config/capture_xp.json
+config/cardinal-components-api.properties
+config/carved_wood-common.json
+config/catchindicator-client.cfg
+config/catchrate-display.json
+config/cobblecuisine.json
+config/cobbledollars/bank.json
+config/cobbledollars/client.json
+config/cobbledollars/common.json
+config/cobbledollars/default_shop.json
+config/cobblemon/main.json
+config/cobblemon/spawning/best-spawner-config.json
+config/cobblemon/starters.json
+config/cobblemon-additions/cobblemon-additions.json
+config/cobblemon-battle-extras-profiles.json
+config/cobblemon-battle-extras-server.json
+config/cobblemon-battle-extras.json
+config/cobblemonbattlepositions.json
+config/cobblemonraiddens/blacklist.json5
+config/cobblemonraiddens/client.json5
+config/cobblemonraiddens/common.json5
+config/cobblemonraiddens/conditions.json5
+config/cobblemonraiddens/tier_five.json5
+config/cobblemonraiddens/tier_four.json5
+config/cobblemonraiddens/tier_one.json5
+config/cobblemonraiddens/tier_seven.json5
+config/cobblemonraiddens/tier_six.json5
+config/cobblemonraiddens/tier_three.json5
+config/cobblemonraiddens/tier_two.json5
+config/cobblenav/client-config.json
+config/cobblenav/server-config.json
+config/cobbreeding/main.json
+config/comforts-common.toml
+config/comforts-server.toml
+config/continuity.json
+config/customsplashscreen/background.png
+config/customsplashscreen/progressbar.png
+config/customsplashscreen/progressbar_background.png
+config/customsplashscreen/square_logo.png
+config/customsplashscreen/wide_logo.png
+config/customsplashscreen.json
+config/defaultoptions/keybindings.txt
+config/defaultoptions/options.txt
+config/defaultoptions/servers.dat
+config/defaultoptions-common.toml
+config/entityculling.json
+config/entity_model_features.json
+config/entity_texture_features.json
+config/etf_warnings.json
+config/euphoria_patcher/.data.json
+config/euphoria_patcher/settings.toml
+config/fabric/indigo-renderer.properties
+config/fancymenu/assets/bg_test.png
+config/fancymenu/assets/cobbleverse_icon_16.png
+config/fancymenu/assets/cobbleverse_icon_32.icns
+config/fancymenu/assets/cobbleverse_icon_32.png
+config/fancymenu/assets/cobbleverse_title.png
+config/fancymenu/assets/discord_icon.png
+config/fancymenu/assets/latias_latios_background.png
+config/fancymenu/assets/pokedex_menu.png
+config/fancymenu/assets/slideshow_frame.png
+config/fancymenu/customizablemenus.txt
+config/fancymenu/customization/cobbleverse_main.txt
+config/fancymenu/customization/cobbleverse_multiplayer_screen.txt
+config/fancymenu/customization/cobbleverse_pause_menu.txt
+config/fancymenu/customization/cobbleverse_resourcepack_selection.txt
+config/fancymenu/custom_gui_screens.txt
+config/fancymenu/layout_editor/widgets/element_layer_control.lewidget
+config/fancymenu/legacy_checklist.txt
+config/fancymenu/listener_instances.txt
+config/fancymenu/options.txt
+config/fancymenu/slideshows/pokedex/images/AlfredoGym.png
+config/fancymenu/slideshows/pokedex/images/AshHouse.png
+config/fancymenu/slideshows/pokedex/images/BurnedTower.png
+config/fancymenu/slideshows/pokedex/images/ChampionCamilla.png
+config/fancymenu/slideshows/pokedex/images/CrownCemetery.png
+config/fancymenu/slideshows/pokedex/images/DeoxysMeteorite.png
+config/fancymenu/slideshows/pokedex/images/DistortionWorld.png
+config/fancymenu/slideshows/pokedex/images/FannieGym.png
+config/fancymenu/slideshows/pokedex/images/FlyingTaxi.png
+config/fancymenu/slideshows/pokedex/images/FurioGym.png
+config/fancymenu/slideshows/pokedex/images/GengarGmax.png
+config/fancymenu/slideshows/pokedex/images/GroudonVolcano.png
+config/fancymenu/slideshows/pokedex/images/HoennLeague.png
+config/fancymenu/slideshows/pokedex/images/HouseFurnitures.png
+config/fancymenu/slideshows/pokedex/images/JohtoLeague.png
+config/fancymenu/slideshows/pokedex/images/KantoCartographer.png
+config/fancymenu/slideshows/pokedex/images/KyogreTemple.png
+config/fancymenu/slideshows/pokedex/images/LakeVerity.png
+config/fancymenu/slideshows/pokedex/images/LegendaryBirds.png
+config/fancymenu/slideshows/pokedex/images/MegaZygardeVSMegaCharizardX.png
+config/fancymenu/slideshows/pokedex/images/MistyGym.png
+config/fancymenu/slideshows/pokedex/images/NecrozmaTowers.png
+config/fancymenu/slideshows/pokedex/images/OriginTemple.png
+config/fancymenu/slideshows/pokedex/images/PokeMart.png
+config/fancymenu/slideshows/pokedex/images/PokemonCenter.png
+config/fancymenu/slideshows/pokedex/images/RadioTower.png
+config/fancymenu/slideshows/pokedex/images/RegirockTemple.png
+config/fancymenu/slideshows/pokedex/images/RegisteelTemple.png
+config/fancymenu/slideshows/pokedex/images/RidingTorterraTogether.png
+config/fancymenu/slideshows/pokedex/images/SabrinaGym.png
+config/fancymenu/slideshows/pokedex/images/SecretGarden.png
+config/fancymenu/slideshows/pokedex/images/SinnohLeague.png
+config/fancymenu/slideshows/pokedex/images/SnowpointTemple.png
+config/fancymenu/slideshows/pokedex/images/StarkMountain.png
+config/fancymenu/slideshows/pokedex/images/TeamGalacticPharmacy.png
+config/fancymenu/slideshows/pokedex/images/TeamRocket.png
+config/fancymenu/slideshows/pokedex/images/TeamRocketRadio.png
+config/fancymenu/slideshows/pokedex/images/WhirlIsland.png
+config/fancymenu/slideshows/pokedex/properties.txt
+config/fancymenu/ui_themes/cherry_blossom.json
+config/fancymenu/ui_themes/cozy_campfire.json
+config/fancymenu/ui_themes/dark.json
+config/fancymenu/ui_themes/dark_high_contrast.json
+config/fancymenu/ui_themes/light.json
+config/fancymenu/ui_themes/light_high_contrast.json
+config/fancymenu/ui_themes/pumpkin_soup.json
+config/fancymenu/ui_themes/purple_void.json
+config/fancymenu/ui_themes/spooky_season.json
+config/fancymenu/user_variables.db
+config/ferritecore.mixin.properties
+config/fightorflight.json5
+config/fightorflight_moves.json5
+config/fightorflight_visual_effect.json5
+config/forgeconfigapiport.toml
+config/forgivingvoid-common.toml
+config/global_packs.toml
+config/immediatelyfast.json
+config/infinite-music-options.json
+config/interactic.json5
+config/iris-excluded.json
+config/iris.properties
+config/lenientdeath.json5
+config/lithium.properties
+config/lumymon.json
+config/mega_showdown/config.json
+config/midnightlib.json
+config/mobsbegone-blacklist.json
+config/modernfix-mixins.properties
+config/modmenu.json
+config/moreculling.toml
+config/MouseTweaks.cfg
+config/musicnotification.json
+config/neruina.json5
+config/nethermap.toml
+config/notenoughanimations.json
+config/notenoughcrashes.json
+config/obc-common.toml
+config/packetfixer.properties
+config/PaginatedAdvancements.json5
+config/particlerain/config.json
+config/particlerain/particles.json
+config/particle_core_config.toml
+config/particle_core_disabled_optimizations_v2.json
+config/particular-common.toml
+config/PastureLoot.json
+config/pingwheel.json
+config/pingwheel.server.json
+config/playerxp/playerxp.json
+config/rctmod-client.toml
+config/rctmod-server.toml
+config/reeses_sodium_options.json
+config/repurposed_structures.json
+json
+config/respackopts/_respackopts.conf
+config/roughlyenoughitems/collapsible.json5
+config/roughlyenoughitems/config.json5
+config/roughlyenoughitems/pinyin.properties
+config/roughlyenoughitems/pinyin_double.properties
+config/safepastures/safepastures.json
+config/scalablelux.properties
+config/sodium-mixins.properties
+config/sodium-options.json
+config/sophisticatedbackpacks-common.toml
+config/sophisticatedbackpacks-server.toml
+config/sophisticatedcore-client.toml
+config/sophisticatedcore-common.toml
+config/sophisticatedstorage-client.toml
+config/sophisticatedstorage-common.toml
+config/sophisticatedstorage-server.toml
+config/soundsbegone.json
+config/sound_physics_remastered/occlusion.properties
+config/sound_physics_remastered/reflectivity.properties
+config/sound_physics_remastered/soundphysics.properties
+config/sound_physics_remastered/sound_rates.properties
+config/stackdeobf.json
+config/tim_core.json
+config/toms_storage.json
+config/vanillabackport-client.toml
+config/vanillabackport-common.toml
+config/VillagerConfig/villagerconfig.json5
+config/waystones-common.toml
+config/xaero/lib/client.cfg
+config/xaero/lib/common.cfg
+config/xaero/lib/profiles/cobbleverse.cfg
+config/xaero/lib/server_profiles/cobbleverse.cfg
+config/xaero/minimap/client.cfg
+config/xaero/minimap/common.cfg
+config/xaero/minimap/default_radar_categories_client.json
+config/xaero/minimap/default_radar_categories_server.json
+config/xaero/minimap/profiles/cobbleverse.cfg
+config/xaero/minimap/profiles/entity_radar_categories/cobbleverse.cfg.json
+config/xaero/minimap/profiles/info_display_config/cobbleverse.cfg.txt
+config/xaero/minimap/server_profiles/cobbleverse.cfg
+config/xaero/world-map/client.cfg
+config/xaero/world-map/common.cfg
+config/xaero/world-map/profiles/cobbleverse.cfg
+config/xaero/world-map/server_profiles/cobbleverse.cfg
+config/xaerohud.txt
+config/yacl.json5
+config/zfastnoise.mixin.properties
+config/zoomify.json
+datapacks/COBBLEVERSE - No Ender Dragon.zip
+datapacks/COBBLEVERSE - No Hunger.zip
+datapacks/COBBLEVERSE-DP-v31.zip
+datapacks/COBBLEVERSE-Loot-DP-v11.zip
+datapacks/COBBLEVERSE-RCT-DP-v20.zip
+datapacks/extra/COBBLEVERSE-Hoenn-DP.zip
+datapacks/extra/COBBLEVERSE-Johto-DP.zip
+datapacks/extra/COBBLEVERSE-Sinnoh-DP.zip
+datapacks/extra/Terralith-DP.zip
+datapacks/PokeCenterPCs-DP.zip
+licenses/Accessories - License.txt
+licenses/Accessories Compatibility Layer - License.txt
+licenses/Advancement Plaques - License.txt
+licenses/AdvancementDisable - License.txt
+licenses/AllTheMons x Mega Showdown - License.txt
+licenses/Architectury API - License.md
+licenses/Athena - License.txt
+licenses/BadOptimizations - License.txt
+licenses/Balm - License.md
+licenses/Beautify Refabricated - License.txt
+licenses/Better Beds - License.txt
+licenses/Better F1 - License.txt
+licenses/Better Nether Map - License.txt
+licenses/Better Recipe Book - License.txt
+licenses/BetterF3 - License.txt
+licenses/Biome Replacer - License.txt
+licenses/Canon PC Wallpapers - License.txt
+licenses/Carved Wood - License.txt
+licenses/CavsCobblemon - License.txt
+licenses/Cloth Config API - License.md
+licenses/CobbleCuisine - License.txt
+licenses/CobbleFurnies - License.txt
+licenses/Cobblemon - License.txt
+licenses/Cobblemon 3D Poke Rods - License.txt
+licenses/Cobblemon Additions - License.txt
+licenses/Cobblemon Better Pokemon Scanner - License.txt
+licenses/Cobblemon Capture XP - License.txt
+licenses/Cobblemon Catch Rate Display - License.txt
+licenses/Cobblemon Emissive Ores - License.txt
+licenses/Cobblemon Fight or Flight - License.txt
+licenses/Cobblemon Interface - License.md
+licenses/Cobblemon Interface Modded - License.md
+licenses/Cobblemon Journey Mounts - License.txt
+licenses/Cobblemon Mega Showdown - License.txt
+licenses/Cobblemon Pasture Loot - License.md
+licenses/Cobblemon PlayerXP - License.txt
+licenses/Cobblemon Pokenav - License.txt
+licenses/Cobblemon Raid Dens - License.txt
+licenses/Cobblemon SafePastures - License.txt
+licenses/Cobblemon Tim Core - License.txt
+licenses/Cobbreeding - License.txt
+licenses/Comforts - License.txt
+licenses/Comforts Modernized - License.txt
+licenses/Complementary Shaders - License.txt
+licenses/Concurrent Chunk Management Engine - License.txt
+licenses/Continuity - License.txt
+licenses/Controlling - License.txt
+licenses/Custom Splash Screen - License.txt
+licenses/Debugify - License.txt
+licenses/Default Options - License.md
+licenses/E19 Cobblemon Minimap Icons - License.txt
+licenses/Eeveelutions Reimagined - License.txt
+licenses/Entity Culling - License.txt
+licenses/Entity Model Features - License.txt
+licenses/Entity Texture Features - License.txt
+licenses/Euphoria Patches - License.txt
+licenses/Fabric API - License.txt
+licenses/Fabric Language Kotlin - License.txt
+licenses/FancyMenu - License.md
+licenses/Fast Noise - License.txt
+licenses/FerriteCore - License.txt
+licenses/Forge Config API Port - License.md
+licenses/Forgiving Void - License.md
+licenses/Fresh Animations - License.txt
+licenses/Fresh Moves - License.txt
+licenses/Fully Hisuian Starters - License.md
+licenses/GeckoLib - License.txt
+licenses/GlitchDex - License.txt
+licenses/Handcrafted - License.txt
+licenses/Highlight - License.md
+licenses/Huge Structure Blocks - License.txt
+licenses/Hydro Reanimodel Pack - License.txt
+licenses/Iceberg - License.txt
+licenses/ImmediatelyFast - License.txt
+licenses/Interactic - License.txt
+licenses/Iris Shaders - License.txt
+licenses/Konkrete - License.txt
+licenses/Krypton - License.txt
+licenses/LackingMons - License.txt
+licenses/Legendary Monuments - License.txt
+licenses/Lenient Death - License.txt
+licenses/LibJF - License.md
+licenses/Lithium - License.md
+licenses/Low Fire - License.txt
+licenses/Lucky Cozy Home Refurnished - License.txt
+licenses/Melody - Keksuccino.txt
+licenses/MidnightLib - License.txt
+licenses/MissingMons - License.txt
+licenses/Moar Concrete - License.txt
+licenses/Mod Menu - License.txt
+licenses/ModernFix - License.txt
+licenses/More Culling - License.txt
+licenses/MoreCobblemonTweaks - License.txt
+licenses/Mouse Tweaks - License.txt
+licenses/MundialMons - License.txt
+licenses/Music Delay Remover - License.txt
+licenses/Music Notification - License.txt
+licenses/MysticMons - License.txt
+licenses/Neruina - License.txt
+licenses/NetherPortalFix - License.md
+licenses/No Chat Restrictions - License.txt
+licenses/Not Enough Animations - License.txt
+licenses/Not Enough Crashes - License.txt
+licenses/OJs Animations - License.txt
+licenses/Only Bottle Caps - License.txt
+licenses/Original Pokemon Battle Music - License.txt
+licenses/owo-lib - License.txt
+licenses/Packet Fixer - License.txt
+licenses/PaginatedAdvancements - License.txt
+licenses/Particle Core - License.txt
+licenses/Particle Rain - License.txt
+licenses/Particular Reforged - License.txt
+licenses/Permissions/Advancement Plaques - Modpack Permission.png
+licenses/Permissions/AllTheMons x Mega Showdown - Permission.png
+licenses/Permissions/CobbleDollars - Permission.png
+licenses/Permissions/Cobblemon Battle Extras - Permission.png
+licenses/Permissions/Eeveelutions Reimagined - Permission.png
+licenses/Permissions/Fully Hisuian Starters - Permission.png
+licenses/Permissions/Iceberg - Modpack Permission.png
+licenses/Permissions/MobsBeGone - Modpack Permission.png
+licenses/Permissions/Navas ZA Megas - Permission.png
+licenses/Permissions/OJs Animations - Permission.png
+licenses/Permissions/Planeta Cobblemon - Permission.png
+licenses/Permissions/Rechiseled - Modpack Permission.png
+licenses/Ping Wheel - License.txt
+licenses/PlanetaCobblemon - License.txt
+licenses/Poke Discs - License.txt
+licenses/Pokeblocks - License.txt
+licenses/PokeCenter PCs - License.txt
+licenses/Pokemans Pack - License.txt
+licenses/Radical Cobblemon Trainers - License.md
+licenses/Radical Cobblemon Trainers API - License.md
+licenses/Reese Sodium Options - License.txt
+licenses/Repurposed Structures - License.txt
+licenses/Resource Pack Overrides - License.md
+licenses/Resourceful Lib - License.txt
+licenses/RespackOpts - License.md
+licenses/Roughly Enough Items - License.txt
+licenses/ScalableLux - License.txt
+licenses/Sodium - License.md
+licenses/Sophisticated Backpacks - License.txt
+licenses/Sophisticated Core - License.txt
+licenses/Sophisticated Storage - License.txt
+licenses/Sound Physics Remastered - License.txt
+licenses/Sounds Be Gone - License.txt
+licenses/Stack Deobfuscator - License.txt
+licenses/TDmon - License.txt
+licenses/Terralith - License.txt
+licenses/TMCraft - License.txt
+licenses/Toms Simple Storage - License.txt
+licenses/ToolTipFix - License.txt
+licenses/Trinkets - License.txt
+licenses/Vanilla Backport - License.txt
+licenses/Villager Config - License.txt
+licenses/Waystones - License.md
+licenses/Xaero Mimimap - License.txt
+licenses/Xaero World Map - License.txt
+licenses/YetAnotherConfigLib - License.txt
+licenses/Zoomify - License.txt
+mods/cobblemon-battle-positions-1.1.3.jar
+mods/ironfurnacesfabric-1.21.1-1.0.0.jar
+resourcepacks/ATMxMSD RP.zip
+resourcepacks/CavsCobbleMons RP.zip
+resourcepacks/Cobblemon Interface Modded.zip.rpo
+resourcepacks/Cobblemon Interface.zip.rpo
+resourcepacks/CobbleMotion RP.zip
+resourcepacks/COBBLEVERSE RCTmod RP.zip
+resourcepacks/COBBLEVERSE RP.zip
+resourcepacks/COBBLEVERSE Soundtrack.zip
+resourcepacks/E19 Cobblemon Minimap Icons.zip
+resourcepacks/GlitchDex RP.zip
+resourcepacks/HydroReanimodel RP.zip
+resourcepacks/LackingMons RP.zip
+resourcepacks/MissingMons RP.zip
+resourcepacks/MundialMons RP.zip
+resourcepacks/MysticMons RP.zip
+resourcepacks/OJsAnimations RP.zip
+resourcepacks/PlanetaCobblemon RP.zip
+resourcepacks/Pokemans RP.zip
+resourcepacks/TDmon RP.zip
+servers.dat
+shaderpacks/COBBLEVERSE - Shaders/.gitignore
+shaderpacks/COBBLEVERSE - Shaders/addedMods.md
+shaderpacks/COBBLEVERSE - Shaders/ComplementaryLicense.txt
+shaderpacks/COBBLEVERSE - Shaders/Credits.txt
+shaderpacks/COBBLEVERSE - Shaders/EuphoriaPatchesLicense.txt
+shaderpacks/COBBLEVERSE - Shaders/InformationEuphoriaPatches.md
+shaderpacks/COBBLEVERSE - Shaders/Made for Complementary Shaders r5.8.1.txt
+shaderpacks/COBBLEVERSE - Shaders/shaders/block.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/1.13+/block.10080-10156.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/1.13+/block.10157-10237.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/1.13+/block.10240-10341.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/1.13+/block.10344-10453.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/1.13+/block.10456-10604.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/1.13+/block.10605-10736.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/1.13+/block.10737-10846.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/1.13+/block.10848-10944.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/1.13+/block.10948-31015.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/1.13+/block.31016-32016.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/1.13+/block.5000-10079.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/1.13+/index.md
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/1.7.10/block.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/1.8+/block.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/instructions/readme.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/README.md
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/renderlayers/renderlayers.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/blockProperties/tags/tags.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/colorwheel.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/dimension.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/entity.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/item.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/lang/en_US.lang
+shaderpacks/COBBLEVERSE - Shaders/shaders/lang/ja_JP.lang
+shaderpacks/COBBLEVERSE - Shaders/shaders/lang/ko_KR.lang
+shaderpacks/COBBLEVERSE - Shaders/shaders/lang/pl_PL.lang
+shaderpacks/COBBLEVERSE - Shaders/shaders/lang/pt_BR.lang
+shaderpacks/COBBLEVERSE - Shaders/shaders/lang/ru_RU.lang
+shaderpacks/COBBLEVERSE - Shaders/shaders/lang/uk_UA.lang
+shaderpacks/COBBLEVERSE - Shaders/shaders/lang/zh_CN.lang
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/antialiasing/fxaa.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/antialiasing/jitter.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/antialiasing/taa.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/auroraBorealis.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/auroraBorealisVisibility.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/bedrockNoise.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/clouds/cloudCoord.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/clouds/mainClouds.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/clouds/reimaginedClouds.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/clouds/unboundClouds.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/endCrystalVortex.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/enderStars.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/endFlash.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/endPortalBeam.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/fog/bloomFog.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/fog/caveFactor.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/fog/coloredLightFog.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/fog/endCenterFog.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/fog/mainFog.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/fog/waterFog.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/netherNoise.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/netherStorm.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/nightNebula.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/overworldBeams.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/rainbow.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/shootingStars.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/sky.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/stars.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/volumetricLight/enderBeams.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/atmospherics/volumetricLight/volumetricLight.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/colors/blocklightColors.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/colors/blocklightColorsACT.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/colors/cloudColors.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/colors/colorMultipliers.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/colors/lightAndAmbientColors.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/colors/moonPhaseInfluence.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/colors/skyColors.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/colors/tonemaps.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/common.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/lighting/blocklightCaustics.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/lighting/cloudShadows.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/lighting/coloredBlocklight.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/lighting/ggx.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/lighting/heldLighting.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/lighting/mainLighting.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/lighting/minimumLighting.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/lighting/shadowSampling.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialHandling/blockEntityIPBR.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialHandling/customMaterials.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialHandling/deferredIPBR.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialHandling/deferredMaterials.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialHandling/entityIPBR.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialHandling/irisIPBR.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialHandling/materialDefines.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialHandling/terrainIPBR.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialHandling/terrainMaterials.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialHandling/translucentIPBR.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialHandling/translucentMaterials.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialMethods/anisotropicFiltering.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialMethods/coatedTextures.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialMethods/connectedGlass.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialMethods/customEmission.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialMethods/generatedNormals.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialMethods/playerRayTracer.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialMethods/pomEffects.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialMethods/reflectionBackground.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialMethods/reflectionBlurFilter.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialMethods/reflections.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialMethods/refraction.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialMethods/snowyWorld.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialMethods/translucentTweaks.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialMethods/waterProcedureTexture.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialMethods/wavingBlocks.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/materialMethods/worldSpaceRef.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/overlayNoise.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/overlayNoiseApply.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/seasons.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/seasonsTime.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/entities/glowItemFrame.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/entities/itemFrame.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/others/endPortalEffect.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/others/lightningBolt.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/others/signText.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/others/SpacEagle17.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/others/trident.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/planks/acaciaPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/planks/bambooPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/planks/birchPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/planks/cherryPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/planks/crimsonPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/planks/darkOakPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/planks/junglePlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/planks/mangrovePlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/planks/oakPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/planks/paleOakPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/planks/sprucePlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/planks/warpedPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/amethyst.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/anvil.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/autoModdedOres.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/blackstone.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/candle.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/cobblestone.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/copperBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/copperBulb.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/coral.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/cryingObsidian.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/deepslate.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/diamondBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/dirt.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/emeraldBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/endPortalFrame.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/endStone.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/froglights.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/goldBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/ironBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/lanternMetal.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/lapisBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/lava.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/lavaEdge.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/lavaNoise.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/leaves.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/netheriteBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/netherrack.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/oakWood.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/obsidian.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/openEyeblossom.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/paleOakWood.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/pumpkin.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/quartzBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/rawCopperBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/rawGoldBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/rawIronBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/redstoneBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/redstoneTorch.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/snow.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/stone.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/terrain/torchflower.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/translucents/glass.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/translucents/netherPortal.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/translucents/stainedGlass.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/materials/specificMaterials/translucents/water.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/misc/colorCodedPrograms.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/misc/darkOutline.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/misc/dhSSAO.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/misc/distantLightBokeh.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/misc/distortWorld.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/misc/endCreditsBackground.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/misc/handSway.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/misc/lensFlare.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/misc/myFile.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/misc/packing.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/misc/pixelation.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/misc/pixelCraft.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/misc/potato.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/misc/reprojection.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/misc/shockwave.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/misc/showLightLevels.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/misc/worldOutline.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/pipelineSettings.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/activateSettings.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/bloom.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/blueScreen.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/clouds.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/cloudsAndLighting.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/colorMult.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/composite1.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/composite2.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/composite3.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/composite5.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/deferred1.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/emissionMult.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/emissiveFlowers.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/endBeams.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/enderStars.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/entities.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/entityMaterials.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/final.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/interactiveFoliage.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/lightAndAmbientColors.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/longExposure.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/mainFog.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/mainLighting.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/materials.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/nightNebula.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/overworldBeams.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/photonics.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/raindropColor.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/settingsFileDefines.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/shockwave.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/SSAO.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/stars.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/tonemaps.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/volumetricLight.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/water.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/wavingBlocks.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/shaderSettings/worldMotionBlur.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/all_text_messages.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/color_code_info.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_apple_act.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_apple_dragon_death.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_apple_end_crystal.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_apple_photonics.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_apple_portal_beam.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_coordinates_act.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_coordinates_photonics.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_multiple_lod_mods.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_old_photonics.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_optifine_act.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_optifine_af.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_optifine_dragon_death.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_optifine_end_crystal.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_optifine_photonics.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_optifine_portal_beam.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_palette_not_found.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_player_reflection_3d_layers.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_shadowdistance_act.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_shadows_act.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/error_wsr_missing_act.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/new_Euphoria_Version.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/old_ssbl_error.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/old_version_ssbl_error.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textRendering/textRenderer.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textures/cloud-water-old.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textures/cloud-water-old.png.mcmeta
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textures/cloud-water.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textures/cloud-water.png.mcmeta
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textures/clouds_minecrafty-water.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textures/clouds_minecrafty-water.png.mcmeta
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textures/cucumber.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textures/cucumber.png.mcmeta
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textures/euphoria_patches.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textures/euphoria_patches.png.mcmeta
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textures/noise.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textures/noise.png.mcmeta
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textures/potato.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/textures/potato.png.mcmeta
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/uniforms.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/util/colorConversion.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/util/commonFunctions.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/util/dFdxdFdy.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/util/dither.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/util/miplevel.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/util/spaceConversion.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/voxelization/endCrystalVoxelization.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/voxelization/leavesVoxelization.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/voxelization/lightVoxelization.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/voxelization/puddleVoxelization.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/voxelization/reflectionVoxelData.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/voxelization/reflectionVoxelization.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/voxelization/SSBOs/blockDataBuffer.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/voxelization/SSBOs/clearSSBOs.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/lib/voxelization/SSBOs/playerVerticesBuffer.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/pack.json
+shaderpacks/COBBLEVERSE - Shaders/shaders/pack.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/palettes/INSTRUCTIONS.txt
+shaderpacks/COBBLEVERSE - Shaders/shaders/palettes/palette1.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/palettes/palette10.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/palettes/palette2.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/palettes/palette3.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/palettes/palette4.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/palettes/palette5.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/palettes/palette6.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/palettes/palette7.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/palettes/palette8.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/palettes/palette9.png
+shaderpacks/COBBLEVERSE - Shaders/shaders/photonics/modifiers/handheld_light_pulse_modifier.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/photonics/modifiers/is_hand_modifier.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/photonics/modifiers/light_modifier.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/photonics/modifiers/restir_denoiser_depth_fetch_modifier.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/photonics/modifiers/restir_gi_modifier.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/photonics/modifiers/voxel_color_modifier.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/photonics/photonics.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/photonics/ph_samplers.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/photonics/shader_interface.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/photonics/write_indirect.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/ph_lights.json
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/composite.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/composite1.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/composite2.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/composite3.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/composite4.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/composite5.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/composite6.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/composite7.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/composite8.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/composite9.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/deferred1.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/dh_terrain.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/dh_water.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/final.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/gbuffers_armor_glint.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/gbuffers_basic.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/gbuffers_beaconbeam.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/gbuffers_block.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/gbuffers_clouds.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/gbuffers_damagedblock.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/gbuffers_entities.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/gbuffers_hand.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/gbuffers_lightning.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/gbuffers_skybasic.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/gbuffers_skytextured.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/gbuffers_spidereyes.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/gbuffers_terrain.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/gbuffers_textured.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/gbuffers_water.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/gbuffers_weather.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/prepare.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/shadow.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/shadowcomp.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/shadow_voxels.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/template.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/voxy.json
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/voxy_opaque.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/program/voxy_translucent.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/shaders.properties
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/clrwl_gbuffers.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/clrwl_gbuffers.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/clrwl_gbuffers_damagedblock.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/clrwl_gbuffers_damagedblock.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/clrwl_gbuffers_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/clrwl_gbuffers_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/clrwl_shadow.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/clrwl_shadow.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite1.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite1.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite2.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite2.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite3.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite3.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite4.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite4.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite5.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite5.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite6.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite6.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite7.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite7.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite8.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite8.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite9.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/composite9.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/deferred1.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/deferred1.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/dh_terrain.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/dh_terrain.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/dh_water.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/dh_water.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/final.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/final.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_armor_glint.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_armor_glint.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_basic.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_basic.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_beaconbeam.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_beaconbeam.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_block.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_block.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_block_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_block_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_clouds.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_clouds.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_damagedblock.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_damagedblock.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_entities.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_entities.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_entities_glowing.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_entities_glowing.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_entities_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_entities_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_hand.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_hand.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_lightning.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_lightning.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_line.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_line.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_skybasic.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_skybasic.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_skytextured.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_skytextured.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_spidereyes.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_spidereyes.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_terrain.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_terrain.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_textured.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_textured.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_voxels.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_voxels.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_water.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_water.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_weather.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/gbuffers_weather.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/shadow.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/shadow.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/shadowcomp.csh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/shadow_voxels.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/shadow_voxels.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/voxy.json
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/voxy_opaque.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/voxy_translucent.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/clrwl_gbuffers.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/clrwl_gbuffers.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/clrwl_gbuffers_damagedblock.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/clrwl_gbuffers_damagedblock.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/clrwl_gbuffers_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/clrwl_gbuffers_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/clrwl_shadow.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/clrwl_shadow.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite1.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite1.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite2.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite2.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite3.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite3.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite4.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite4.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite5.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite5.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite6.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite6.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite7.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite7.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite8.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite8.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite9.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/composite9.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/deferred1.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/deferred1.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/dh_terrain.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/dh_terrain.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/dh_water.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/dh_water.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/final.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/final.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_armor_glint.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_armor_glint.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_basic.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_basic.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_beaconbeam.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_beaconbeam.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_block.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_block.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_block_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_block_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_clouds.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_clouds.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_damagedblock.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_damagedblock.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_entities.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_entities.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_entities_glowing.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_entities_glowing.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_entities_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_entities_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_hand.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_hand.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_lightning.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_lightning.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_line.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_line.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_skybasic.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_skybasic.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_skytextured.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_skytextured.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_spidereyes.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_spidereyes.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_terrain.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_terrain.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_textured.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_textured.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_voxels.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_voxels.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_water.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_water.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_weather.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/gbuffers_weather.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/prepare.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/prepare.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/shadow.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/shadow.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/shadowcomp.csh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/shadow_voxels.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/shadow_voxels.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/voxy.json
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/voxy_opaque.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/world0/voxy_translucent.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/clrwl_gbuffers.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/clrwl_gbuffers.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/clrwl_gbuffers_damagedblock.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/clrwl_gbuffers_damagedblock.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/clrwl_gbuffers_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/clrwl_gbuffers_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/clrwl_shadow.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/clrwl_shadow.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite1.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite1.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite2.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite2.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite3.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite3.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite4.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite4.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite5.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite5.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite6.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite6.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite7.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite7.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite8.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite8.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite9.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/composite9.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/deferred1.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/deferred1.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/dh_terrain.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/dh_terrain.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/dh_water.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/dh_water.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/final.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/final.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_armor_glint.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_armor_glint.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_basic.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_basic.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_beaconbeam.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_beaconbeam.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_block.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_block.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_block_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_block_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_clouds.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_clouds.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_damagedblock.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_damagedblock.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_entities.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_entities.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_entities_glowing.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_entities_glowing.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_entities_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_entities_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_hand.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_hand.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_lightning.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_lightning.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_line.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_line.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_skybasic.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_skybasic.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_skytextured.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_skytextured.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_spidereyes.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_spidereyes.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_terrain.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_terrain.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_textured.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_textured.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_voxels.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_voxels.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_water.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_water.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_weather.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/gbuffers_weather.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/prepare.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/prepare.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/shadow.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/shadow.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/shadowcomp.csh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/shadow_voxels.fsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/shadow_voxels.vsh
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/voxy.json
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/voxy_opaque.glsl
+shaderpacks/COBBLEVERSE - Shaders/shaders/world1/voxy_translucent.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/.gitignore
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/addedMods.md
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/ComplementaryLicense.txt
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/Credits.txt
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/EuphoriaPatchesLicense.txt
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/InformationEuphoriaPatches.md
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/Made for Complementary Shaders r5.8.1.txt
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/block.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/1.13+/block.10080-10156.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/1.13+/block.10157-10237.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/1.13+/block.10240-10341.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/1.13+/block.10344-10453.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/1.13+/block.10456-10604.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/1.13+/block.10605-10736.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/1.13+/block.10737-10846.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/1.13+/block.10848-10944.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/1.13+/block.10948-31015.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/1.13+/block.31016-32016.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/1.13+/block.5000-10079.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/1.13+/index.md
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/1.7.10/block.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/1.8+/block.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/instructions/readme.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/README.md
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/renderlayers/renderlayers.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/blockProperties/tags/tags.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/colorwheel.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/dimension.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/entity.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/item.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lang/en_US.lang
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lang/ja_JP.lang
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lang/ko_KR.lang
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lang/pl_PL.lang
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lang/pt_BR.lang
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lang/ru_RU.lang
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lang/uk_UA.lang
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lang/zh_CN.lang
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/antialiasing/fxaa.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/antialiasing/jitter.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/antialiasing/taa.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/auroraBorealis.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/auroraBorealisVisibility.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/bedrockNoise.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/clouds/cloudCoord.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/clouds/mainClouds.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/clouds/reimaginedClouds.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/clouds/unboundClouds.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/endCrystalVortex.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/enderStars.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/endFlash.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/endPortalBeam.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/fog/bloomFog.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/fog/caveFactor.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/fog/coloredLightFog.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/fog/endCenterFog.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/fog/mainFog.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/fog/waterFog.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/netherNoise.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/netherStorm.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/nightNebula.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/overworldBeams.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/rainbow.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/shootingStars.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/sky.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/stars.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/volumetricLight/enderBeams.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/atmospherics/volumetricLight/volumetricLight.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/colors/blocklightColors.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/colors/blocklightColorsACT.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/colors/cloudColors.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/colors/colorMultipliers.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/colors/lightAndAmbientColors.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/colors/moonPhaseInfluence.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/colors/skyColors.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/colors/tonemaps.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/common.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/lighting/blocklightCaustics.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/lighting/cloudShadows.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/lighting/coloredBlocklight.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/lighting/ggx.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/lighting/heldLighting.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/lighting/mainLighting.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/lighting/minimumLighting.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/lighting/shadowSampling.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialHandling/blockEntityIPBR.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialHandling/customMaterials.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialHandling/deferredIPBR.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialHandling/deferredMaterials.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialHandling/entityIPBR.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialHandling/irisIPBR.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialHandling/materialDefines.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialHandling/terrainIPBR.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialHandling/terrainMaterials.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialHandling/translucentIPBR.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialHandling/translucentMaterials.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialMethods/anisotropicFiltering.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialMethods/coatedTextures.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialMethods/connectedGlass.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialMethods/customEmission.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialMethods/generatedNormals.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialMethods/playerRayTracer.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialMethods/pomEffects.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialMethods/reflectionBackground.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialMethods/reflectionBlurFilter.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialMethods/reflections.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialMethods/refraction.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialMethods/snowyWorld.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialMethods/translucentTweaks.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialMethods/waterProcedureTexture.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialMethods/wavingBlocks.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/materialMethods/worldSpaceRef.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/overlayNoise.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/overlayNoiseApply.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/seasons.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/seasonsTime.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/entities/glowItemFrame.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/entities/itemFrame.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/others/endPortalEffect.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/others/lightningBolt.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/others/signText.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/others/SpacEagle17.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/others/trident.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/planks/acaciaPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/planks/bambooPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/planks/birchPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/planks/cherryPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/planks/crimsonPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/planks/darkOakPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/planks/junglePlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/planks/mangrovePlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/planks/oakPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/planks/paleOakPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/planks/sprucePlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/planks/warpedPlanks.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/amethyst.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/anvil.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/autoModdedOres.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/blackstone.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/candle.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/cobblestone.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/copperBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/copperBulb.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/coral.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/cryingObsidian.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/deepslate.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/diamondBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/dirt.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/emeraldBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/endPortalFrame.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/endStone.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/froglights.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/goldBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/ironBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/lanternMetal.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/lapisBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/lava.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/lavaEdge.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/lavaNoise.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/leaves.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/netheriteBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/netherrack.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/oakWood.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/obsidian.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/openEyeblossom.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/paleOakWood.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/pumpkin.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/quartzBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/rawCopperBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/rawGoldBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/rawIronBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/redstoneBlock.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/redstoneTorch.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/snow.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/stone.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/terrain/torchflower.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/translucents/glass.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/translucents/netherPortal.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/translucents/stainedGlass.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/materials/specificMaterials/translucents/water.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/misc/colorCodedPrograms.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/misc/darkOutline.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/misc/dhSSAO.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/misc/distantLightBokeh.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/misc/distortWorld.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/misc/endCreditsBackground.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/misc/handSway.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/misc/lensFlare.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/misc/myFile.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/misc/packing.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/misc/pixelation.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/misc/pixelCraft.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/misc/potato.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/misc/reprojection.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/misc/shockwave.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/misc/showLightLevels.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/misc/worldOutline.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/pipelineSettings.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/activateSettings.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/bloom.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/blueScreen.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/clouds.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/cloudsAndLighting.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/colorMult.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/composite1.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/composite2.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/composite3.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/composite5.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/deferred1.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/emissionMult.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/emissiveFlowers.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/endBeams.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/enderStars.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/entities.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/entityMaterials.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/final.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/interactiveFoliage.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/lightAndAmbientColors.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/longExposure.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/mainFog.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/mainLighting.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/materials.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/nightNebula.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/overworldBeams.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/photonics.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/raindropColor.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/settingsFileDefines.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/shockwave.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/SSAO.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/stars.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/tonemaps.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/volumetricLight.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/water.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/wavingBlocks.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/shaderSettings/worldMotionBlur.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/all_text_messages.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/color_code_info.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_apple_act.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_apple_dragon_death.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_apple_end_crystal.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_apple_photonics.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_apple_portal_beam.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_coordinates_act.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_coordinates_photonics.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_multiple_lod_mods.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_old_photonics.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_optifine_act.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_optifine_af.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_optifine_dragon_death.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_optifine_end_crystal.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_optifine_photonics.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_optifine_portal_beam.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_palette_not_found.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_player_reflection_3d_layers.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_shadowdistance_act.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_shadows_act.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/error_wsr_missing_act.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/new_Euphoria_Version.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/old_ssbl_error.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/old_version_ssbl_error.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textRendering/textRenderer.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textures/cloud-water-old.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textures/cloud-water-old.png.mcmeta
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textures/cloud-water.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textures/cloud-water.png.mcmeta
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textures/clouds_minecrafty-water.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textures/clouds_minecrafty-water.png.mcmeta
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textures/cucumber.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textures/cucumber.png.mcmeta
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textures/euphoria_patches.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textures/euphoria_patches.png.mcmeta
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textures/noise.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textures/noise.png.mcmeta
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textures/potato.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/textures/potato.png.mcmeta
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/uniforms.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/util/colorConversion.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/util/commonFunctions.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/util/dFdxdFdy.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/util/dither.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/util/miplevel.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/util/spaceConversion.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/voxelization/endCrystalVoxelization.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/voxelization/leavesVoxelization.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/voxelization/lightVoxelization.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/voxelization/puddleVoxelization.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/voxelization/reflectionVoxelData.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/voxelization/reflectionVoxelization.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/voxelization/SSBOs/blockDataBuffer.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/voxelization/SSBOs/clearSSBOs.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/lib/voxelization/SSBOs/playerVerticesBuffer.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/pack.json
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/pack.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/palettes/INSTRUCTIONS.txt
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/palettes/palette1.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/palettes/palette10.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/palettes/palette2.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/palettes/palette3.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/palettes/palette4.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/palettes/palette5.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/palettes/palette6.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/palettes/palette7.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/palettes/palette8.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/palettes/palette9.png
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/photonics/modifiers/handheld_light_pulse_modifier.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/photonics/modifiers/is_hand_modifier.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/photonics/modifiers/light_modifier.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/photonics/modifiers/restir_denoiser_depth_fetch_modifier.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/photonics/modifiers/restir_gi_modifier.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/photonics/modifiers/voxel_color_modifier.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/photonics/photonics.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/photonics/ph_samplers.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/photonics/shader_interface.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/photonics/write_indirect.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/ph_lights.json
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/composite.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/composite1.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/composite2.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/composite3.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/composite4.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/composite5.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/composite6.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/composite7.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/composite8.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/composite9.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/deferred1.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/dh_terrain.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/dh_water.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/final.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/gbuffers_armor_glint.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/gbuffers_basic.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/gbuffers_beaconbeam.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/gbuffers_block.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/gbuffers_clouds.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/gbuffers_damagedblock.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/gbuffers_entities.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/gbuffers_hand.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/gbuffers_lightning.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/gbuffers_skybasic.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/gbuffers_skytextured.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/gbuffers_spidereyes.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/gbuffers_terrain.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/gbuffers_textured.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/gbuffers_water.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/gbuffers_weather.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/prepare.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/shadow.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/shadowcomp.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/shadow_voxels.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/template.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/voxy.json
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/voxy_opaque.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/program/voxy_translucent.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/shaders.properties
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/clrwl_gbuffers.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/clrwl_gbuffers.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/clrwl_gbuffers_damagedblock.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/clrwl_gbuffers_damagedblock.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/clrwl_gbuffers_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/clrwl_gbuffers_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/clrwl_shadow.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/clrwl_shadow.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite1.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite1.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite2.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite2.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite3.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite3.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite4.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite4.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite5.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite5.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite6.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite6.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite7.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite7.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite8.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite8.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite9.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/composite9.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/deferred1.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/deferred1.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/dh_terrain.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/dh_terrain.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/dh_water.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/dh_water.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/final.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/final.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_armor_glint.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_armor_glint.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_basic.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_basic.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_beaconbeam.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_beaconbeam.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_block.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_block.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_block_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_block_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_clouds.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_clouds.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_damagedblock.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_damagedblock.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_entities.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_entities.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_entities_glowing.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_entities_glowing.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_entities_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_entities_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_hand.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_hand.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_lightning.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_lightning.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_line.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_line.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_skybasic.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_skybasic.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_skytextured.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_skytextured.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_spidereyes.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_spidereyes.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_terrain.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_terrain.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_textured.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_textured.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_voxels.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_voxels.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_water.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_water.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_weather.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/gbuffers_weather.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/shadow.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/shadow.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/shadowcomp.csh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/shadow_voxels.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/shadow_voxels.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/voxy.json
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/voxy_opaque.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world-1/voxy_translucent.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/clrwl_gbuffers.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/clrwl_gbuffers.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/clrwl_gbuffers_damagedblock.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/clrwl_gbuffers_damagedblock.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/clrwl_gbuffers_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/clrwl_gbuffers_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/clrwl_shadow.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/clrwl_shadow.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite1.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite1.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite2.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite2.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite3.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite3.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite4.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite4.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite5.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite5.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite6.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite6.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite7.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite7.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite8.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite8.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite9.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/composite9.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/deferred1.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/deferred1.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/dh_terrain.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/dh_terrain.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/dh_water.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/dh_water.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/final.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/final.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_armor_glint.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_armor_glint.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_basic.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_basic.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_beaconbeam.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_beaconbeam.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_block.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_block.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_block_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_block_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_clouds.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_clouds.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_damagedblock.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_damagedblock.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_entities.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_entities.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_entities_glowing.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_entities_glowing.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_entities_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_entities_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_hand.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_hand.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_lightning.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_lightning.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_line.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_line.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_skybasic.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_skybasic.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_skytextured.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_skytextured.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_spidereyes.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_spidereyes.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_terrain.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_terrain.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_textured.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_textured.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_voxels.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_voxels.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_water.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_water.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_weather.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/gbuffers_weather.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/prepare.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/prepare.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/shadow.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/shadow.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/shadowcomp.csh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/shadow_voxels.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/shadow_voxels.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/voxy.json
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/voxy_opaque.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world0/voxy_translucent.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/clrwl_gbuffers.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/clrwl_gbuffers.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/clrwl_gbuffers_damagedblock.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/clrwl_gbuffers_damagedblock.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/clrwl_gbuffers_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/clrwl_gbuffers_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/clrwl_shadow.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/clrwl_shadow.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite1.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite1.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite2.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite2.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite3.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite3.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite4.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite4.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite5.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite5.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite6.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite6.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite7.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite7.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite8.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite8.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite9.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/composite9.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/deferred1.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/deferred1.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/dh_terrain.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/dh_terrain.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/dh_water.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/dh_water.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/final.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/final.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_armor_glint.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_armor_glint.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_basic.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_basic.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_beaconbeam.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_beaconbeam.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_block.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_block.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_block_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_block_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_clouds.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_clouds.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_damagedblock.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_damagedblock.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_entities.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_entities.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_entities_glowing.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_entities_glowing.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_entities_translucent.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_entities_translucent.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_hand.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_hand.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_lightning.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_lightning.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_line.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_line.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_skybasic.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_skybasic.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_skytextured.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_skytextured.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_spidereyes.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_spidereyes.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_terrain.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_terrain.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_textured.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_textured.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_voxels.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_voxels.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_water.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_water.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_weather.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/gbuffers_weather.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/prepare.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/prepare.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/shadow.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/shadow.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/shadowcomp.csh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/shadow_voxels.fsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/shadow_voxels.vsh
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/voxy.json
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/voxy_opaque.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/voxy_translucent.glsl
+shaderpacks/COBBLEVERSE - Shaders (High Quality).txt
+shaderpacks/COBBLEVERSE - Shaders.txt
