@@ -14,7 +14,8 @@ video tutorial de instalação : https://drive.google.com/file/d/11WDNGIT8sClYzF
 
 baixe o arquivo .mrpack do modpack em: https://drive.google.com/drive/folders/1f2Y3S4azJqb7lT7GrB_6qPMPM3dvTEQe?usp=drive_link
 
-![[Pasted image 20260728220852.png]]
+![Pasted image 20260728220852.png]
+(Pasted%20image%2020260728220852.png)
 
 3º Com o Prism Launcher aberto clique em Add Instance -> Import -> cole o caminho de onde você salvou o modpack. Aceite todas as dependencias.
 
@@ -31,7 +32,8 @@ baixe o arquivo .mrpack do modpack em: https://drive.google.com/drive/folders/1f
 	Também é proibido trocar o time e ataques dos pokemons durante o torneio.
 
 
- ![[TorneioChart.png]]
+ ![TorneioChart.png]
+ (TorneioChart.png)
 
 
 ### Mods extras
