@@ -28,7 +28,9 @@ mmc-pack.json
 **/fancymenu_data/
 **/showdown/
 **/legendary-monuments-data/
-
+**/minecraft/licenses
+**/minecraft/config/fancymenu/assets
+**/minecraft/COBBLEVERSE - Third-Party Licenses.pdf
 # Ignorar cache de mapas (Xaero Minimap/Worldmap)
 **/xaero/
 

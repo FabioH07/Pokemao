@@ -1,0 +1,58 @@
+[basic]
+	#Master Veinminer toggle.
+	enabled = true
+	#Default activation key. SHIFT means hold shift while mining.
+	activation_key = "SHIFT"
+	#If true, only mine when the held tool can correctly harvest the block.
+	require_correct_tool = true
+	#Prevent Veinminer from activating when the tool would break.
+	check_tool_durability = true
+	#Durability reserve threshold used when durability protection is enabled.
+	durability_cap = 1
+	#ABSOLUTE keeps fixed points; PERCENTAGE keeps a percentage of max durability.
+	durability_mode = "ABSOLUTE"
+
+[visual]
+	#Show vein outline particles.
+	show_particles = true
+	#Show Veinminer status/action messages in chat/action bar.
+	show_chat_feedback = true
+	#Reserved for a future HUD activation indicator.
+	show_hud_indicator = false
+	#Particle outline duration in ticks (1-1200; 20 ticks = 1 second).
+	particle_duration_ticks = 60
+	particle_red = 255
+	particle_green = 0
+	particle_blue = 0
+
+[advanced]
+	#Enable advanced commands (/vmadvanced) and advanced runtime controls.
+	enabled = false
+	#Enable extra debug-oriented logging.
+	debug_logging = false
+	#Gate for experimental behaviour.
+	allow_experimental_features = false
+	#Worker thread count for async internals.
+	thread_count = 2
+	#Use WHITELIST or BLACKLIST semantics for block lists.
+	block_list_mode = "WHITELIST"
+	#If true, block lists are scoped per-tool.
+	blocks_per_tool = false
+	#Attempt automatic LuckPerms integration.
+	auto_luckperms = false
+	#Legacy setup wizard prompt state.
+	setup_wizard_prompt_complete = true
+
+	[advanced.cooldown]
+		enabled = false
+		seconds = 5
+
+	[advanced.block_limits]
+		dynamic_max_blocks = false
+		max_blocks = 64
+		min_blocks = 16
+		max_dynamic_blocks = 64
+
+	[advanced.exhaustion]
+		enabled = false
+		scale = 1.0
