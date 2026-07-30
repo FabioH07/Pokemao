@@ -18,6 +18,8 @@ baixe o arquivo .mrpack do modpack em: https://drive.google.com/drive/folders/1f
 
 3º Com o Prism Launcher aberto clique em Add Instance -> Import -> cole o caminho de onde você salvou o modpack. Aceite todas as dependencias.
 
+4º Acessar o server pelo endereço car-interactions.gl.joinmc.link 
+
 
 # Regras do Servidor 
 
