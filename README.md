@@ -33,7 +33,7 @@ baixe o arquivo .mrpack do modpack em: https://drive.google.com/drive/folders/1f
 	Também é proibido trocar o time e ataques dos pokemons durante o torneio.
 
 
- ![TorneioChart.png](TorneioChart.png)
+ ![Captura de tela 2026-07-30 121220.png](Captura%de%tela%2026-07-30%121220.png)
 
 
 ### Mods extras
